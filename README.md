@@ -5,7 +5,7 @@ A interactive coding community platform to practise and scale up your skills.
 ## Run Locally
 ### First clone the repo
 ```bash
-git clone https://github.com/praneethgarre/zcoder_.git
+git clone https://github.com/Ganesh12012005/Zcoder.git
 cd ZCoder
 ```
 
@@ -13,7 +13,7 @@ cd ZCoder
 ```bash
 cd backend
 npm i 
-nodemon index.js
+npm start
 ```
 
 Create a `.env` file in the backend folder with the following variables:
